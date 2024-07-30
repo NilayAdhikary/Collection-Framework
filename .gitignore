@@ -1,0 +1,12 @@
+/.vscode
+/bin
+/lib
+/README.md
+/src/ArmstrongNumber.java
+/src/CheckPrime.java
+/src/Divisors.java
+/src/FreqOfArray.java
+/src/GCD.java
+/src/Generics.java
+/src/Print1ToN.java
+/src/Test.java
