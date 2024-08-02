@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
@@ -19,7 +18,7 @@ class MyCustomComparator implements Comparator<Animal>{
 
 public class LearnComparableAndComparators {
     public static void main(String[] args) {
-        Animal a1 = new ("Rozy", 12, 40);
+        Animal a1 = new Animal("Rozy", 12, 40);
         Animal a2 = new Animal("Liza", 28, 41);
         Animal a3 = new Animal("Reeva", 18, 42);
         Animal a4 = new Animal("Golu", 4, 43);
